@@ -1,5 +1,5 @@
 # simple-console
-简单实用的移动端控制台(开源项目练习)
+简单实用的移动端控制台(开源项目练习) https://zhuoyan.github.io/simple-console/
 
 ## 简介
 
@@ -8,16 +8,20 @@
 ## 安装 & 下载
 
 - npm
-    npm i simple-console-npm
+    
+	npm i simple-console-npm
 
 - git
-    git clone git@github.com:zhuoyan/simple-console.git
+    
+	git clone git@github.com:zhuoyan/simple-console.git
 
 - github
-    https://github.com/zhuoyan/simple-console/releases
+    
+	https://github.com/zhuoyan/simple-console/releases
 
 - CDN
-    https://unpkg.com/simple-console-npm/release/bundle.js
+    
+	https://unpkg.com/simple-console-npm/release/bundle.js
 
 ## 快速使用
 
