@@ -1,5 +1,5 @@
 {
-  "name": "simple-console",
+  "name": "simple-console-npm",
   "version": "0.0.1",
   "description": "简单实用的移动端控制台",
   "main": "src/index.js",
