@@ -16,12 +16,10 @@ cs.set('a',233);
 
 `` js
 cs.get('a');
-
 ``
 
 ## 清空
 
 `` js
 cs.clear();
-
 ``
