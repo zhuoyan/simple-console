@@ -1,6 +1,6 @@
 {
   "name": "simple-console-npm",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "简单实用的移动端控制台",
   "main": "src/index.js",
   "scripts": {
